@@ -5,6 +5,8 @@
 - 🔭 Hoje trabalho como motorista de aplicativo.
 - 🌱 Estudando programação voltada para desenvolvimento web front-end.
 - 😄 Pronouns: Ele/Sr
+- 👷Em construção...
+
 
 <div>
   <a href="https://github.com/Edilano-Gonzaga">
