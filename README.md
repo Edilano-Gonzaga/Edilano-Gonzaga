@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho como motorista de aplicativo.
+- 🔭 Desenvolvedor Front-end freelance.
 - 🌱 Estudando programação voltada para desenvolvimento web front-end.
 - 😄 Pronouns: Ele/Sr
 - 👷Em construção...
