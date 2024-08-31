@@ -1,9 +1,9 @@
-### 🖖Olá Gente 🤓Eu sou Edilano Gonzaga👋
+### 🖖Olá Gente 🤓Eu sou Edilano Melo👋
 
 
 
-- 🔭 Desenvolvedor Front-end freelance.
-- 🌱 Estudando programação voltada para desenvolvimento web front-end.
+- 🔭 Desenvolvedor Web Front-end freelance.
+- 🌱 Estudando programação voltada para desenvolvimento web.
 - 😄 Pronouns: Ele/Sr
 - 👷Em construção...
 
